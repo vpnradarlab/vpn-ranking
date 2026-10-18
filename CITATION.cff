@@ -7,6 +7,7 @@ authors:
   - name: "VPNRadarLab"
     website: "https://vpnradarlab.com"
 version: "2026-10"
+doi: "10.5281/zenodo.23457598"
 date-released: "2026-10-18"
 license: CC-BY-4.0
 url: "https://vpnradarlab.com/"
@@ -16,3 +17,13 @@ keywords:
   - privacy
   - ranking
   - open data
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23457598"
+    description: "Zenodo DOI of version 2026-10"
+  - type: doi
+    value: "10.5281/zenodo.23457597"
+    description: "Zenodo concept DOI (all versions)"
+  - type: url
+    value: "https://zenodo.org/records/23457598"
+    description: "Zenodo record of version 2026-10"

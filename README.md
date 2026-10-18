@@ -1,5 +1,7 @@
 # VPNRadarLab — VPN ranking methodology
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23457598.svg)](https://doi.org/10.5281/zenodo.23457598)
+
 **Website: [vpnradarlab.com](https://vpnradarlab.com/)** · Live methodology page: [vpnradarlab.com/methodology/](https://vpnradarlab.com/methodology/)
 
 How every VPN on VPNRadarLab gets its score: six sub-scores built from published facts, fixed weights, the criteria and points behind each one, and the rules for missing data, red flags and ties. This file restates the methodology page; if the two ever differ, the live page is the reference.
@@ -157,10 +159,12 @@ The [`data/`](data/) folder holds an open snapshot of the **top 100 of the VPNRa
 It is a snapshot, updated quarterly; current scores are on [vpnradarlab.com](https://vpnradarlab.com/). Each release (`v2026-10` and later)
 has the files as a zip archive.
 
+The 2026-10 snapshot is also archived on Zenodo with a DOI: [10.5281/zenodo.23457598](https://doi.org/10.5281/zenodo.23457598) (record: https://zenodo.org/records/23457598).
+
 **Licence:** the data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([`data/LICENSE`](data/LICENSE)).
 Credit it with a link: **Source: VPNRadarLab (https://vpnradarlab.com)**.
 
-**How to cite:** VPNRadarLab (2026). *VPNRadarLab top-100 VPN ranking*, version 2026-10. https://vpnradarlab.com/. CC BY 4.0.
+**How to cite:** VPNRadarLab (2026). *VPNRadarLab top-100 VPN ranking*, version 2026-10 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23457598. https://vpnradarlab.com/. CC BY 4.0.
 Machine-readable: [`CITATION.cff`](CITATION.cff).
 
 Found a wrong value? Report it at https://vpnradarlab.com/report-an-error/.

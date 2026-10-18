@@ -12,7 +12,7 @@ The first 100 places of the [VPNRadarLab](https://vpnradarlab.com/) main ranking
 | Rows | 100 |
 | Files | `top100.csv` (UTF-8, comma-separated, header row), `top100.json` (same rows + metadata and field list) |
 | Licence | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Update | quarterly |
+| Update | one-time snapshot (2026-10); current data is on the site |
 
 ## Licence and attribution
 
@@ -93,4 +93,4 @@ Only scores and structured facts are published here. Not included: texts, commen
 
 ## Report an error
 
-If a value is wrong or outdated, tell us at https://vpnradarlab.com/report-an-error/ (name the service and the field). Corrections go to the site first and into the next snapshot.
+If a value is wrong or outdated, tell us at https://vpnradarlab.com/report-an-error/ (name the service and the field). Corrections go to the site.

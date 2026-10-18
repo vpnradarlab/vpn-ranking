@@ -14,7 +14,7 @@
     "license": "CC-BY-4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Source: VPNRadarLab (https://vpnradarlab.com)",
-    "update_frequency": "quarterly"
+    "update_frequency": "one-time snapshot (2026-10); current data is on the site"
   },
   "fields": [
     {

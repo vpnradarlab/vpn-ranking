@@ -156,7 +156,7 @@ The [`data/`](data/) folder holds an open snapshot of the **top 100 of the VPNRa
 - [`data/README.md`](data/README.md) — what each field means, the scales and what is left out (texts, sources, user reviews, store ratings,
   traffic estimates are not included).
 
-It is a snapshot, updated quarterly; current scores are on [vpnradarlab.com](https://vpnradarlab.com/). Each release (`v2026-10` and later)
+It is a one-time snapshot (2026-10); current data is on the site, [vpnradarlab.com](https://vpnradarlab.com/). Release `v2026-10`
 has the files as a zip archive.
 
 The 2026-10 snapshot is also archived on Zenodo with a DOI: [10.5281/zenodo.23457598](https://doi.org/10.5281/zenodo.23457598) (record: https://zenodo.org/records/23457598).

@@ -146,7 +146,24 @@ Some rankings weigh the sub-score that matters for that topic more. The chosen s
 
 ## Data
 
-Coming soon.
+The [`data/`](data/) folder holds an open snapshot of the **top 100 of the VPNRadarLab main ranking** (2026-10):
+
+- [`data/top100.csv`](data/top100.csv) and [`data/top100.json`](data/top100.json) — place, overall score, the six sub-scores, segment,
+  jurisdiction, 5/9/14 Eyes, red flag, 15 key features as `yes` / `no` / `partial` / `not_stated`, and a few numbers (cheapest price per
+  month in EUR, renewal ratio, refund days, devices, server countries);
+- [`data/README.md`](data/README.md) — what each field means, the scales and what is left out (texts, sources, user reviews, store ratings,
+  traffic estimates are not included).
+
+It is a snapshot, updated quarterly; current scores are on [vpnradarlab.com](https://vpnradarlab.com/). Each release (`v2026-10` and later)
+has the files as a zip archive.
+
+**Licence:** the data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) ([`data/LICENSE`](data/LICENSE)).
+Credit it with a link: **Source: VPNRadarLab (https://vpnradarlab.com)**.
+
+**How to cite:** VPNRadarLab (2026). *VPNRadarLab top-100 VPN ranking*, version 2026-10. https://vpnradarlab.com/. CC BY 4.0.
+Machine-readable: [`CITATION.cff`](CITATION.cff).
+
+Found a wrong value? Report it at https://vpnradarlab.com/report-an-error/.
 
 ## Found an error?
 

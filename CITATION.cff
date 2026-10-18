@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to https://vpnradarlab.com."
+type: dataset
+title: "VPNRadarLab top-100 VPN ranking"
+abstract: "The first 100 places of the VPNRadarLab main ranking of consumer VPNs: overall score, six sub-scores and normalised structured facts per service. Snapshot; current data at https://vpnradarlab.com."
+authors:
+  - name: "VPNRadarLab"
+    website: "https://vpnradarlab.com"
+version: "2026-10"
+date-released: "2026-10-18"
+license: CC-BY-4.0
+url: "https://vpnradarlab.com/"
+repository: "https://github.com/vpnradarlab/vpn-ranking"
+keywords:
+  - VPN
+  - privacy
+  - ranking
+  - open data
